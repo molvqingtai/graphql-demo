@@ -1,29 +1,34 @@
 # graphql-demo
 
-## Project setup
+A graphql-demo example for vue.js
+
+
+
+## Install
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+```
+cd server && npm install
+```
+
+
+
+## Run
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+node index.js
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/molvqingtai/graphql-demo/blob/master/LICENSE) file for details
+
